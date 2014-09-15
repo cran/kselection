@@ -1,0 +1,12 @@
+8542feb556fdf3add0cecf81ed7069aa *DESCRIPTION
+30aab9da74c064f150730b058998e64d *NAMESPACE
+df186a1a2eb99378b19ff3263a817972 *R/kselection.R
+8dcf4b502b7c047ec04e94e8e92032e8 *R/pham.R
+e33ddcb831b4eaaa006063aeb362d54d *inst/tests/testPham.R
+1c2bc5a644d67af2a680ae23382e12d6 *man/get_f_k.Rd
+7254e992b470515517748015a205471e *man/get_k_threshold.Rd
+0becac51c443bd59fa3b774af982dd6f *man/kselection-package.Rd
+83dd8e5f72a9c7735add8c5e72162cf6 *man/kselection.Rd
+0deee19104bcb74f6d9462fd315ad138 *man/num_clusters.Rd
+93c6700e96432d7dbd5eb748236defa4 *man/num_clusters_all.Rd
+126606ddac13644fb31a857e4064662f *man/set_k_threshold.Rd
